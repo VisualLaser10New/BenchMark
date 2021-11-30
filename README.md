@@ -1,2 +1,2 @@
 # BenchMark
-A benchmark tool that computes some arrays
+Uno strumento di benchmark che mediante differenti algoritmi permette di calcolare le somme massime di vari arrays.
