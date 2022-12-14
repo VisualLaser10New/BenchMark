@@ -2,7 +2,7 @@
  * Author:
  *	VISUAL LASER 10 NEW aka EMA3NTO
  *	CristianCrazyIT aka CRISTIAN
- * UNDER MIT LICENCE
+ * UNDER MIT LICENSE
  * Benchmark tools
  **********************************************/
 
